@@ -22,6 +22,7 @@ IFRN Pau dos Ferros - 4º Ano
 - [Estágio Pau dos Ferros](https://estagiopaudosferros.com/)
 - [Protocolo SEAD](https://protocolosead.com/protocolo)
 - [Pau dos Ferros 360 Graus](https://paudosferros360graus.com.br) 
-- [Demutran](https://demutran.protocolosead.com/) (Em desenvolvimento)
+- [Supaco](suap2.estagiopaudosferros.com) 
+- [Demutran](demutranpaudosferros.com.br) (Em desenvolvimento)
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
