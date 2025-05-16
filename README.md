@@ -29,15 +29,15 @@ Sempre fui apaixonado por tecnologia. Desde pequeno, ficava curioso sobre como a
 ## Projetos em Destaque
 
 - **[Estágio Pau dos Ferros](https://estagiopaudosferros.com/)**  
-  Uma plataforma para gerenciar estágios. [Repositório](https://github.com/Kellyson/estagio)  
+  Uma plataforma para gerenciar estágios. [Repositório](https://github.com/Kellyson71/estagio)  
 - **[Protocolo SEAD](https://protocolosead.com/protocolo)**  
-  Sistema de protocolo para organizar processos administrativos. [Repositório](https://github.com/Kellyson/protocolo-sead)  
+  Sistema de protocolo para organizar processos administrativos. [Repositório](https://github.com/Kellyson71/protocolo-sead)  
 - **[Pau dos Ferros 360 Graus](https://paudosferros360graus.com.br)**  
-  Visualização interativa da cidade em 360°. [Repositório](https://github.com/Kellyson/paudosferros360)  
+  Visualização interativa da cidade em 360°. [Repositório](https://github.com/Kellyson71/paudosferros360)  
 - **[Supaco](https://suap2.estagiopaudosferros.com)**  
-  Sistema de suporte acadêmico. [Repositório](https://github.com/Kellyson/supaco)  
+  Sistema de suporte acadêmico. [Repositório](https://github.com/Kellyson71/supaco)  
 - **[Demutran](https://demutranpaudosferros.com.br)**  
-  Gestão de trânsito municipal. [Repositório](https://github.com/Kellyson/demutran)  
+  Gestão de trânsito municipal. [Repositório](https://github.com/Kellyson71/demutran)  
 
 ## Educação
 
