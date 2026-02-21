@@ -1,56 +1,77 @@
-# Kellyson Raphael - Desenvolvedor Fullstack
+<div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2336BCF7&size=20&lines=Desenvolvedor+Fullstack)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Oi%2C+eu+sou+o+Kellyson+%F0%9F%91%8B;Desenvolvedor+Fullstack;Bolsista+NADIC+%E2%80%A2+IFRN;Transformando+ideias+em+c%C3%B3digo" alt="Typing SVG" />
 
-Oi! Eu sou o Kellyson, um desenvolvedor Fullstack que adora transformar ideias em soluções reais através do código. Estou cursando **Análise e Desenvolvimento de Sistemas** no IFRN e trabalho na Prefeitura de Pau dos Ferros, onde desenvolvo sistemas web e mobile para tornar os processos administrativos mais práticos e eficientes.
+<br/>
 
-## Sobre Mim
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kellyson-raphael-398578264/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kellyson.medeiros.pdf@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kellyson71)
+[![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/suapy/)
 
-Sempre fui apaixonado por tecnologia. Desde pequeno, ficava curioso sobre como as coisas funcionavam por trás das telas, e hoje tenho a chance de colocar isso em prática. Na Prefeitura de Pau dos Ferros, trabalho em projetos que impactam o dia a dia das pessoas, como sistemas de gestão de estágios e protocolos. Cada linha de código que escrevo é uma oportunidade de aprender algo novo e fazer a diferença.
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kellyson71&theme=dark)
+---
 
-## Habilidades
+## Sobre mim
+Sou estudante de **Análise e Desenvolvimento de Sistemas** no **IFRN – Campus Pau dos Ferros** e bolsista no **NADIC (Núcleo de Análise de Dados e Inteligência Computacional)**.
+Atuo no desenvolvimento de aplicações **desktop com Electron, Vite, TypeScript e React**, além de manter sistemas em **PHP e Python** usados por **municípios e instituições reais**.
+Sou autor da [**Suapy**](https://pypi.org/project/suapy/), uma biblioteca Python que facilita o acesso à API do SUAP em português.
 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+---
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=kellyson71&layout=compact&theme=dracula)
+## 🛠️ Stack
 
-## Projetos em Destaque
+<div align="center">
 
-- **[Estágio Pau dos Ferros](https://estagiopaudosferros.com/)**  
-  Uma plataforma para gerenciar estágios. [Repositório](https://github.com/Kellyson71/Estagio_PDF)  
-- **[Protocolo SEAD](https://protocolosead.com/protocolo)**  
-  Sistema de protocolo para organizar processos administrativos. [Repositório](https://github.com/Kellyson71/Protocolo_SEAD)  
-- **[Pau dos Ferros 360 Graus](https://paudosferros360graus.com.br)**  
-  Visualização interativa da cidade em 360°
-- **[Supaco](https://suap2.estagiopaudosferros.com)**  
-  Sistema de suporte acadêmico. [Repositório](https://github.com/Kellyson71/SUPACO_ifrn-api)  
-- **[Demutran](https://demutranpaudosferros.com.br)**  
-  Gestão de trânsito municipal. [Repositório](https://github.com/Kellyson71/demutran)  
+**Atualmente**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-## Educação
+**Em produção**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**IFRN Pau dos Ferros**  
-*Análise e Desenvolvimento de Sistemas - Em andamento* 
+</div>
 
-## Contato
+---
 
-Se quiser falar comigo, é só me chamar:
+## 🚀 Projetos em Destaque
 
-- **Email:** [kellyson.medeiros.pdf@gmail.com](mailto:kellyson.medeiros.pdf@gmail.com)  
-- **LinkedIn:** [Kellyson Raphael](https://www.linkedin.com/in/kellyson-raphael-398578264/)  
-- **GitHub:** [Kellyson71](https://github.com/Kellyson71)  
+| Projeto | Descrição | Link |
+|---|---|---|
+| 🎓 **Estágio PDF** | Plataforma de gestão de estágios para Pau dos Ferros | [ver →](https://estagiopaudosferros.com/) |
+| 📋 **Protocolo SEAD** | Sistema de protocolo para processos administrativos | [ver →](https://protocolosead.com/protocolo) |
+| 🎒 **Supaco** | Suporte acadêmico integrado à API do SUAP/IFRN | [ver →](https://supaco.vercel.app/) |
+| 🚦 **Demutran** | Sistema de gestão do trânsito municipal | [ver →](https://demutranpaudosferros.com.br) |
+| 🐍 **Suapy** | Biblioteca Python para a API do SUAP, publicada no PyPI | [ver →](https://pypi.org/project/suapy/) |
 
-![Kellyson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kellyson71&show_icons=true&theme=dracula)
+---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=kellyson71&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellyson71&layout=compact&theme=dracula&hide_border=true" />
+
+<br/>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kellyson71&theme=dracula&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+**IFRN Pau dos Ferros** · Bolsista NADIC · Análise e Desenvolvimento de Sistemas
+
+</div>
