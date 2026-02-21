@@ -59,11 +59,6 @@ Sou autor da [**Suapy**](https://pypi.org/project/suapy/), uma biblioteca Python
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=kellyson71&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellyson71&layout=compact&theme=dracula&hide_border=true" />
-
-<br/>
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kellyson71&theme=dracula&hide_border=true)
 
 </div>
